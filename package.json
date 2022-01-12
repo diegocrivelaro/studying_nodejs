@@ -1,9 +1,19 @@
 {
-  "name": "Studying_NodeJS",
+  "name": "studying_nodejs",
   "version": "1.0.0",
   "description": "Studying NodeJS",
   "main": "index.js",
-  "repository": "https://github.com/diegocrivelaro/studying_nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegocrivelaro/studying_nodejs.git"
+  },
   "author": "Diego Crivelaro",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegocrivelaro/studying_nodejs/issues"
+  },
+  "homepage": "https://github.com/diegocrivelaro/studying_nodejs#readme"
 }
