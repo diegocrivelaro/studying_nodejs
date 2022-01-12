@@ -1,0 +1,9 @@
+{
+  "name": "Studying_NodeJS",
+  "version": "1.0.0",
+  "description": "Studying NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/diegocrivelaro/studying_nodejs",
+  "author": "Diego Crivelaro",
+  "license": "MIT"
+}
